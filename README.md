@@ -11,7 +11,7 @@
 
 ## My current projects:
 As a member of @TomorrowDevs, I am currently working on the following team project:\
-**building an Image Recognition Webapp**\
+>> **building an Image Recognition Webapp**\
 My work is related to the back-end side and requires me to use the framework Django with RESTful APIs in order to interact with the front-end.
 
 Here is what we have got so far:\
