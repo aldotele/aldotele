@@ -11,13 +11,13 @@
 
 ## Current projects:
 As a member of @TomorrowDevs, I am currently working on the following team project:
->> <div align='center'>**building an Image Recognition Webapp**</div>
+>> <div align='center'><b>building an Image Recognition Webapp</b></div>
 My work is related to the back-end side and requires me to use the framework Django with RESTful APIs in order to interact with the front-end.
 
 
 
-Here is what we have got so far:\
-https://gracious-mcclintock-220460.netlify.app/index.html \
+<div align='center'>Here is what we have got so far:<br>
+https://gracious-mcclintock-220460.netlify.app/index.html</div>
 
 
 Check out the **repositories**:
