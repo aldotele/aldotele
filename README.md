@@ -14,12 +14,12 @@ As a member of **@TomorrowDevs**, I am currently working on the following **team
 >> <div align='center'><b>building an Image Recognition Webapp</b></div>
 My work is related to the back-end side and requires me to use the framework **Django** with **RESTful APIs** in order to interact with the front-end.
 
-
+<br>
 <div align='center'>Here is what we have got so far:<br>
 https://gracious-mcclintock-220460.netlify.app/index.html</div>
 
 
-Check out the **repositories**:
+Check out the **repositories**:\
 **Back-end**: https://github.com/TD-team3/img-recognition-web-app-be \
 **Front-end**: https://github.com/TD-team3/img-recognition-web-app-fe
 
