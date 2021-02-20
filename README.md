@@ -25,7 +25,7 @@ Django views and models, JWT standard,\
  Agile methodology, retrospectives,
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=flag-india)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldotele&show_icons=true&theme=flag-india)
 
 
 <!--
