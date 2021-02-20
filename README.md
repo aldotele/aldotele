@@ -18,9 +18,8 @@ My work is related to the back-end side and requires me to use the framework Dja
 Here is what we have got so far:\
 https://gracious-mcclintock-220460.netlify.app/index.html
 </div> 
--------------
 
-<div>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldotele&show_icons=true&theme=vue)</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldotele&show_icons=true&theme=vue)
 
 
 <!--
