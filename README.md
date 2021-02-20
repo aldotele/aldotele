@@ -24,6 +24,9 @@ Django views and models, JWT standard,\
  Git versioning, collaborative Github workflow (branching, merging, pull requests),
  Agile methodology, retrospectives,
 
+-------------
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldotele&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldotele&show_icons=true&theme=flag-india)
 
