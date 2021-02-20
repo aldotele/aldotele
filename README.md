@@ -14,7 +14,7 @@ As a member of @TomorrowDevs, I am currently working on the following team proje
 >> **building an Image Recognition Webapp**\
 My work is related to the back-end side and requires me to use the framework Django with RESTful APIs in order to interact with the front-end.
 
-<div align='center'>Here is what we have got so far:<div>\
+<div align='center'>Here is what we have got so far:</div>
 https://gracious-mcclintock-220460.netlify.app/index.html 
  
 Acquired skills (ongoing):\
