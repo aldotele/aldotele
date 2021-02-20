@@ -14,9 +14,10 @@ As a member of @TomorrowDevs, I am currently working on the following team proje
 >> **building an Image Recognition Webapp**\
 My work is related to the back-end side and requires me to use the framework Django with RESTful APIs in order to interact with the front-end.
 
+
 <div align='center'>
-Here is what we have got so far:\
-https://gracious-mcclintock-220460.netlify.app/index.html
+Here is what we have got so far:<br>
+https://gracious-mcclintock-220460.netlify.app/index.html<br>
 </div> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldotele&show_icons=true&theme=vue)
