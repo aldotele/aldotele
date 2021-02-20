@@ -10,6 +10,7 @@
 
 
 ## Current projects:
+***
 As a member of **@TomorrowDevs**, I am currently working on the following **team project**:
 >> <div align='center'><b>building an Image Recognition Webapp</b></div>
 My work is related to the back-end side and requires me to use the framework **Django** with **RESTful APIs** in order to interact with the front-end.
@@ -20,8 +21,8 @@ https://gracious-mcclintock-220460.netlify.app/index.html
 Repositories:\
 **Back-end**: https://github.com/TD-team3/img-recognition-web-app-be \
 **Front-end**: https://github.com/TD-team3/img-recognition-web-app-fe
+***
 
-<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldotele&show_icons=true&theme=vue)
 
