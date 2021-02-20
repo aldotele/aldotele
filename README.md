@@ -17,8 +17,6 @@ My work is related to the back-end side and requires me to use the framework **D
 Deploy:
 https://gracious-mcclintock-220460.netlify.app/index.html
 
-<br>
-
 Repositories:\
 **Back-end**: https://github.com/TD-team3/img-recognition-web-app-be \
 **Front-end**: https://github.com/TD-team3/img-recognition-web-app-fe
