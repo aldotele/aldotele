@@ -18,9 +18,11 @@ My work is related to the back-end side and requires me to use the framework Dja
 
 Here is what we have got so far:\
 https://gracious-mcclintock-220460.netlify.app/index.html \
-Check out the repositories:
-Back-end: https://github.com/TD-team3/img-recognition-web-app-be \
-Front-end: https://github.com/TD-team3/img-recognition-web-app-fe
+
+
+Check out the repositories:\
+**Back-end**: https://github.com/TD-team3/img-recognition-web-app-be \
+**Front-end**: https://github.com/TD-team3/img-recognition-web-app-fe
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldotele&show_icons=true&theme=vue)
