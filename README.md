@@ -1,5 +1,5 @@
 
-## About me:
+## Overview:
 
 - **Python** + **Django** backend developer
 - Member of [**TomorrowDevs**](https://https://www.tomorrowdevs.com)  community
@@ -10,13 +10,13 @@
 </div>
 
 
-## My current projects:
+## Current projects:
 As a member of @TomorrowDevs, I am currently working on the following team project:
 >> **building an Image Recognition Webapp**\
 My work is related to the back-end side and requires me to use the framework Django with RESTful APIs in order to interact with the front-end.
 
 <div align='center'>
-Here is what we have got so far:
+Here is what we have got so far:\
 https://gracious-mcclintock-220460.netlify.app/index.html
 </div> 
 -------------
