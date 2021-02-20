@@ -1,7 +1,6 @@
 
 ## Overview:
 
-***
 - **Python** + **Django** backend developer
 - Member of [**TomorrowDevs**](https://https://www.tomorrowdevs.com)  community
 - I have a University background in Economics and I am currently taking my first steps into **Data Science** and **Machine Learning**
@@ -11,7 +10,7 @@
 ***
 
 ## Current projects:
-***
+
 As a member of **@TomorrowDevs**, I am currently working on the following **team project**:
 >> **building an Image Recognition Webapp**
 
