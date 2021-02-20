@@ -12,7 +12,7 @@
 ## Current projects:
 ***
 As a member of **@TomorrowDevs**, I am currently working on the following **team project**:
->> <div align='center'><b>building an Image Recognition Webapp</b></div>
+>> **building an Image Recognition Webapp**
 My work is related to the back-end side and requires me to use the framework **Django** with **RESTful APIs** in order to interact with the front-end.
 
 Deploy:
