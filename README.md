@@ -8,7 +8,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldotele&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
 
 ## My current projects:
 As a member of @TomorrowDevs, I am currently working on the following team project:\
