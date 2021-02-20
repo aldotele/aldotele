@@ -25,13 +25,7 @@ Django views and models, JWT standard,\
  Agile methodology, retrospectives,
 
 
-
--------------
-In my spare time, I like to work on a small project:\
-**a duplicate finder program**\
-it is a program which, starting from a root directory, will find a list of duplicate files, based on a specified file extension (.txt, .jpeg, .png, etc.), and if not specified, it will look ignore extensions. All duplicates that are found will be moved to a new folder and the user can decide whether to delete them or not after double-checking them.\
-My idea is to add new functionalities to the program as well as to make it look better.
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldotele)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
