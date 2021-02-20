@@ -5,9 +5,8 @@
 - Member of [**TomorrowDevs**](https://https://www.tomorrowdevs.com)  community
 - I have a University background in Economics and I am currently taking my first steps into **Data Science** and **Machine Learning**
 - One day I would love to work within an international team where I could speak **English** on a daily basis
-<div align='center'>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldotele&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 
 ## Current projects:
