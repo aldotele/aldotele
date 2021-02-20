@@ -1,6 +1,3 @@
-### Hi there 👋, welcome to my Github!
-
-<br>
 
 ## About me:
 
@@ -8,7 +5,7 @@
 - Member of the **@TomorrowDevs** community 
 - I have a University background in Economics and I am currently taking my first steps into **Data Science** and **Machine Learning**
 - One day I would love to work within an international team where I could speak **English** on a daily basis
-- 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldotele&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
@@ -29,7 +26,7 @@ Django views and models, JWT standard,\
 -------------
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldotele&show_icons=true&theme=flag-india)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldotele&show_icons=true&theme=vue)
 
 
 <!--
