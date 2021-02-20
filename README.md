@@ -10,10 +10,9 @@
 
 
 ## Current projects:
-As a member of @TomorrowDevs, I am currently working on the following team project:
+As a member of **@TomorrowDevs**, I am currently working on the following **team project**:
 >> <div align='center'><b>building an Image Recognition Webapp</b></div>
-My work is related to the back-end side and requires me to use the framework Django with RESTful APIs in order to interact with the front-end.
-
+My work is related to the back-end side and requires me to use the framework **Django** with **RESTful APIs** in order to interact with the front-end.
 
 
 <div align='center'>Here is what we have got so far:<br>
