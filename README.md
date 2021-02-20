@@ -2,7 +2,7 @@
 ## About me:
 
 - **Python** + **Django** backend developer
-- Member of the **@TomorrowDevs** community 
+- Member of [**TomorrowDevs**](https://duckduckgo.com)  community
 - I have a University background in Economics and I am currently taking my first steps into **Data Science** and **Machine Learning**
 - One day I would love to work within an international team where I could speak **English** on a daily basis
 
