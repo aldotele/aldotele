@@ -6,8 +6,8 @@
 :bar_chart: I have a university background in Economics and I am currently taking my first steps into **Data Science** and **Machine Learning**\
 :earth_africa: One day I would like to work within an international team where I could speak **English** on a daily basis\
 
-<p> Reach me on
-<a href= "https://www.linkedin.com/in/aldo-telese/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-512.png" height="30" width="30"/></a>
+<p> Reach me on 
+<a href= "https://www.linkedin.com/in/aldo-telese/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" height="30" width="30"/></a>
 </p>
 
 ***
