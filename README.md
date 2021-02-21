@@ -21,10 +21,12 @@
 
 ## Technologies:
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=Python)
-![Django](https://img.shields.io/badge/-Django-fff?&logo=Django)
+![Django](https://img.shields.io/badge/-Django-fff?&logo=Django$logoColor=red)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
+![Git](https://img.shields.io/badge/-Git-fff?&logo=Git)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldotele&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ***
