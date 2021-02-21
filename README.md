@@ -6,6 +6,7 @@
 :bar_chart: I have a University background in Economics and I am currently taking my first steps into **Data Science** and **Machine Learning**\
 :earth_africa: One day I would like to work within an international team where I could speak **English** on a daily basis
 
+***
 ## Technologies:
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-fff?&logo=Django&logoColor=red)
