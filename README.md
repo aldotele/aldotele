@@ -42,6 +42,19 @@ Repositories:\
 **Front-end**: https://github.com/TD-team3/img-recognition-web-app-fe
 ***
 
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 
 <!--
 **aldotele/aldotele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
