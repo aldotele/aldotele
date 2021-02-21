@@ -7,6 +7,7 @@
 :earth_africa: One day I would like to work within an international team where I could speak **English** on a daily basis
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/python.svg" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldotele&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ***
