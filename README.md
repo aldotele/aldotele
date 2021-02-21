@@ -1,10 +1,10 @@
 
 ## Overview:
 
-- **Python** + **Django** backend developer :computer:
-- Member of [**TomorrowDevs**](https://https://www.tomorrowdevs.com)  community :registered:
-- I have a University background in Economics and I am currently taking my first steps into **Data Science** and **Machine Learning** :bar_chart:
-- One day I would like to work within an international team where I could speak **English** on a daily basis :earth_africa:
+:computer: **Python** + **Django** backend developer\
+:bar_chart: Member of [**TomorrowDevs**](https://https://www.tomorrowdevs.com)  community :registered:
+:bar_chart: I have a University background in Economics and I am currently taking my first steps into **Data Science** and **Machine Learning**\
+:earth_africa: One day I would like to work within an international team where I could speak **English** on a daily basis\
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldotele&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ***
