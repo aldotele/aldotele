@@ -16,7 +16,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-fff?&logo=Markdown&logoColor=grey)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldotele&layout=compact&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldotele&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 ***
 
 ## Current projects:
