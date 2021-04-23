@@ -25,6 +25,7 @@
 ## Current projects:
 
 As a member of **@TomorrowDevs**, I worked on the following **projects**:
+***
 >> **Image Recognition Webapp** (team project)
 
 My work was related to the back-end and required me to use **Django** framework with **RESTful APIs**.
