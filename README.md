@@ -49,7 +49,7 @@ Repository: https://github.com/aldotele/multi_crawler
 
 >> **Lotto lottery** (individual project)
 >
-This project required me to implement a simulation of the Italian Lotto game by using **OOP** and using **unittests**.
+This project required me to implement a simulation of the Italian Lotto game by using **OOP** and **unittests**.
 
 Repository: https://github.com/aldotele/lotto_lottery 
 
