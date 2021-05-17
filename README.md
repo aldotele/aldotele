@@ -30,12 +30,10 @@ As a member of **@TomorrowDevs**, I worked on the following **projects**:
 
 My work was related to the back-end and required me to use **Django** framework with **RESTful APIs**.
 
-Deploy:
-gracious-mcclintock-220460.netlify.app/index.html
+[Deploy link](https://gracious-mcclintock-220460.netlify.app/index.html)\
+[Back-end repository](https://github.com/TD-team3/img-recognition-web-app-be)\
+[Front-end repository](https://github.com/TD-team3/img-recognition-web-app-fe)
 
-Repositories:\
-**Back-end**: github.com/TD-team3/img-recognition-web-app-be \
-**Front-end**: github.com/TD-team3/img-recognition-web-app-fe
 ***
 
 >> **Web Crawler** (team project)
@@ -44,14 +42,15 @@ The project was part of a series of workshop related to *multithreading*.\
 We decided to implement a web scraper that used **multithread** in order to boost
 **image download** from a website ([**Etsy.com**](https://etsy.com))
 
-Repository: github.com/aldotele/multi_crawler
+[multi-crawler repository](https://github.com/aldotele/multi_crawler)
+
 ***
 
 >> **Lotto lottery** (individual project)
 >
 This project required me to implement a simulation of the Italian Lotto game by using **OOP** and **unittests**.
 
-Repository: github.com/aldotele/lotto_lottery 
+[Lotto game repository](https://github.com/aldotele/lotto_lottery) 
 
 
 <!--
