@@ -22,9 +22,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldotele&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 ***
 
-## Current projects:
-
-As a member of **@TomorrowDevs**, I worked on the following **projects**:
+## My projects:
 
 >> **Image Recognition Webapp** (team project in @Tomorrowdevs)
 
@@ -38,7 +36,7 @@ My work was related to the back-end and required me to use **Django** framework 
 
 >> **Shorten 1000** (personal project)
 
-A Url shortener built with Django
+A Url shortener with a *copy to clipboard* feature built in Django
 
 available at [short.devoping.com](http://short.devoping.com/) \
 [shorten 1000 repository](https://github.com/aldotele/shorten1000)
@@ -47,7 +45,7 @@ available at [short.devoping.com](http://short.devoping.com/) \
 
 >> **The Mystery Word** (personal project)
 
-the English version of the Italian game called "Ghigliottina"
+the English version of the Italian game called [*Ghigliottina*](https://www.youtube.com/watch?v=eLGqqjawDp8)
 
 available at [themysteryword.herokuapp.com](https://themysteryword.herokuapp.com/) \
 [the mystery word repository](https://github.com/aldotele/mystery_word)
