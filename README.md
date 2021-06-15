@@ -39,7 +39,7 @@ My work was related to the back-end and required me to use **Django** framework 
 A Url shortener with a *copy to clipboard* feature built in Django
 
 available at [short.devoping.com](http://short.devoping.com/) \
-[shorten 1000 repository](https://github.com/aldotele/shorten1000)
+[shorten1000 repository](https://github.com/aldotele/shorten1000)
 
 ***
 
@@ -48,7 +48,7 @@ available at [short.devoping.com](http://short.devoping.com/) \
 the English version of the Italian game called [*Ghigliottina*](https://www.youtube.com/watch?v=eLGqqjawDp8)
 
 available at [themysteryword.herokuapp.com](https://themysteryword.herokuapp.com/) \
-[the mystery word repository](https://github.com/aldotele/mystery_word)
+[mystery word repository](https://github.com/aldotele/mystery_word)
 
 ***
 
