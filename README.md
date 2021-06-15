@@ -26,7 +26,7 @@
 
 As a member of **@TomorrowDevs**, I worked on the following **projects**:
 
->> **Image Recognition Webapp** (team project)
+>> **Image Recognition Webapp** (team project in @Tomorrowdevs)
 
 My work was related to the back-end and required me to use **Django** framework with **RESTful APIs**.
 
@@ -36,7 +36,14 @@ My work was related to the back-end and required me to use **Django** framework 
 
 ***
 
->> **Web Crawler** (team project)
+>>> **Shorten 1000** (personal project)
+
+A Url shortener built with Django
+
+[Deploy link](http://short.devoping.com/)
+[shorten 1000 repository](https://github.com/aldotele/shorten1000)
+
+>> **Etsy.com Web Crawler** (team project in @Tomorrowdevs)
 
 The project was part of a series of workshop related to *multithreading*.\
 We decided to implement a web scraper that used **multithread** in order to boost
@@ -46,11 +53,13 @@ We decided to implement a web scraper that used **multithread** in order to boos
 
 ***
 
->> **Lotto lottery** (individual project)
+>> **Lotto lottery** (individual project in @Tomorrowdevs)
 >
 This project required me to implement a simulation of the Italian Lotto game by using **OOP** and **unittests**.
 
 [Lotto game repository](https://github.com/aldotele/lotto_lottery) 
+
+***
 
 
 <!--
