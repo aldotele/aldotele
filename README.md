@@ -36,20 +36,20 @@ My work was related to the back-end and required me to use **Django** framework 
 
 ***
 
->>> **Shorten 1000** (personal project)
+>> **Shorten 1000** (personal project)
 
 A Url shortener built with Django
 
-available at http://short.devoping.com/ \
+available at [short.devoping.com](http://short.devoping.com/) \
 [shorten 1000 repository](https://github.com/aldotele/shorten1000)
 
 ***
 
->>> **The Mystery Word ** (personal project)
+>> **The Mystery Word** (personal project)
 
 the English version of the Italian game called "Ghigliottina"
 
-available at https://themysteryword.herokuapp.com/ \
+available at [themysteryword.herokuapp.com](https://themysteryword.herokuapp.com/) \
 [the mystery word repository](https://github.com/aldotele/mystery_word)
 
 ***
