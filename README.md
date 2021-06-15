@@ -40,14 +40,25 @@ My work was related to the back-end and required me to use **Django** framework 
 
 A Url shortener built with Django
 
-[Deploy link](http://short.devoping.com/)
+available at http://short.devoping.com/ \
 [shorten 1000 repository](https://github.com/aldotele/shorten1000)
+
+***
+
+>>> **The Mystery Word ** (personal project)
+
+the English version of the Italian game called "Ghigliottina"
+
+available at https://themysteryword.herokuapp.com/ \
+[the mystery word repository](https://github.com/aldotele/mystery_word)
+
+***
 
 >> **Etsy.com Web Crawler** (team project in @Tomorrowdevs)
 
 The project was part of a series of workshop related to *multithreading*.\
 We decided to implement a web scraper that used **multithread** in order to boost
-**image download** from a website ([**Etsy.com**](https://etsy.com))
+**image download** from the online marketplace ([**Etsy.com**](https://etsy.com))
 
 [multi-crawler repository](https://github.com/aldotele/multi_crawler)
 
