@@ -30,7 +30,7 @@
 
 My work was related to the back-end and required me to use **Django** framework with **RESTful APIs**.
 
-[Deploy link](https://gracious-mcclintock-220460.netlify.app/index.html)\
+available at &#8594 (https://gracious-mcclintock-220460.netlify.app/index.html)\
 [Back-end repository](https://github.com/TD-team3/img-recognition-web-app-be)\
 [Front-end repository](https://github.com/TD-team3/img-recognition-web-app-fe)
 
@@ -40,7 +40,7 @@ My work was related to the back-end and required me to use **Django** framework 
 
 A Url shortener with a *copy to clipboard* feature built in Django
 
-available at [short.devoping.com](http://short.devoping.com/) \
+available at &#8594 [short.devoping.com](http://short.devoping.com/) \
 [shorten1000 repository](https://github.com/aldotele/shorten1000)
 
 ***
@@ -49,7 +49,7 @@ available at [short.devoping.com](http://short.devoping.com/) \
 
 the English version of the Italian game called [*Ghigliottina*](https://www.youtube.com/watch?v=eLGqqjawDp8)
 
-available at [themysteryword.herokuapp.com](https://themysteryword.herokuapp.com/) \
+available at &#8594 [themysteryword.herokuapp.com](https://themysteryword.herokuapp.com/) \
 [mystery word repository](https://github.com/aldotele/mystery_word)
 
 ***
