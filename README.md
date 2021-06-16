@@ -30,7 +30,7 @@
 
 My work was related to the back-end and required me to use **Django** framework with **RESTful APIs**.
 
-available at &#8594;  (https://gracious-mcclintock-220460.netlify.app/index.html)\
+available [here](https://gracious-mcclintock-220460.netlify.app/index.html)\
 [Back-end repository](https://github.com/TD-team3/img-recognition-web-app-be)\
 [Front-end repository](https://github.com/TD-team3/img-recognition-web-app-fe)
 
