@@ -17,7 +17,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?&logo=Bootstrap&logoColor=502EBC)
 ![Git](https://img.shields.io/badge/-Git-fff?&logo=Git)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=mysql&logoColor=dark-blue)
-![PostgreSQL](https://img.shields.io/badge/-postgresql-fff?&logo=postgresql&logoColor=1136BE)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=postgresql&logoColor=1136BE)
 ![Markdown](https://img.shields.io/badge/-Markdown-fff?&logo=Markdown&logoColor=grey)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-fff?&logo=Jupyter&logoColor=orange)
 ![Heroku](https://img.shields.io/badge/-Heroku-fff?&logo=Heroku&logoColor=C6699E)
