@@ -16,6 +16,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?&logo=Bootstrap&logoColor=502EBC)
 ![Git](https://img.shields.io/badge/-Git-fff?&logo=Git)
+![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=mysql&logoColor=dark-blue)
 ![Markdown](https://img.shields.io/badge/-Markdown-fff?&logo=Markdown&logoColor=grey)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-fff?&logo=Jupyter&logoColor=orange)
 ![Heroku](https://img.shields.io/badge/-Heroku-fff?&logo=Heroku&logoColor=C6699E)
