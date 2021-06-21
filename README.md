@@ -21,7 +21,7 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-fff?&logo=Heroku&logoColor=C6699E)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldotele&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldotele&layout=compact&theme=vue&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 ***
 
 ## My projects:
