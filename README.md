@@ -44,7 +44,7 @@ available at &#8594;  [Deploy link](https://gracious-mcclintock-220460.netlify.a
 
 A Url shortener with a *copy to clipboard* feature built in Django
 
-available at &#8594;  [short.devoping.com](http://short.devoping.com/) \
+available at &#8594;  [s1000.herokuapp.com](https://s1000.herokuapp.com/) \
 [shorten1000 repository](https://github.com/aldotele/shorten1000)
 
 ***
