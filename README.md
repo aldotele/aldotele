@@ -16,15 +16,18 @@
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-fff?&logo=Django&logoColor=forestgreen)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
+![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=Node.js)
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?&logo=Bootstrap&logoColor=502EBC)
-![Git](https://img.shields.io/badge/-Git-fff?&logo=Git)
-![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=mysql&logoColor=dark-blue)
+![Git](https://img.shields.io/badge/-Git-fff?&logo=Git)\
+![SQLite3](https://img.shields.io/badge/-sqlite-fff?&logo=sqlite&logoColor=blue)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=postgresql&logoColor=1136BE)
+![GraphQL](https://img.shields.io/badge/-graphql-fff?&logo=graphql)\
 ![Markdown](https://img.shields.io/badge/-Markdown-fff?&logo=Markdown&logoColor=grey)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-fff?&logo=Jupyter&logoColor=orange)
 ![Heroku](https://img.shields.io/badge/-Heroku-fff?&logo=Heroku&logoColor=C6699E)
+<!--![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=mysql&logoColor=dark-blue)-->
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldotele&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
