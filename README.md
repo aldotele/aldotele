@@ -27,7 +27,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-fff?&logo=Markdown&logoColor=grey)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-fff?&logo=Jupyter&logoColor=orange)
 ![Heroku](https://img.shields.io/badge/-Heroku-fff?&logo=Heroku&logoColor=C6699E)\
-![Squarespace](https://img.shields.io/badge/-Squarespace-fff?&logo=squarespace&logoColor=black)\
+![Squarespace](https://img.shields.io/badge/-Squarespace-fff?&logo=squarespace&logoColor=black)
 <!--![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=mysql&logoColor=dark-blue)-->
 
 
