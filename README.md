@@ -7,6 +7,8 @@
 
 <a href= "https://www.linkedin.com/in/aldo-telese/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" height="18" width="18"/> <b>My LinkedIn </b></a>
 
+<a href= "https://www.aldotelesedev.herokuapp.com/"><img src="https://www.iconfinder.com/icons/2305615/address_globe_internet_network_site_web_www_icon" height="18" width="18"/> <b>My Website </b></a>
+
 ***
 ## Technologies:
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=Python)
