@@ -4,14 +4,12 @@
 
 ## Overview:
 
-:computer: **Python** + **Django** backend developer\
+:computer: I am a **Python** w/**Django** backend developer, currently practicing **Node.js**\
 :registered: Member of [**TomorrowDevs**](https://www.tomorrowdevs.com): a **community** of aspirant developers and data scientists mentored by industry professionals\
-:bar_chart: I have a university background in Economics and I am currently taking my first steps into **Data Science** and **Machine Learning**\
+:bar_chart: I have a university background in Economics and I took my first steps into **Data Science** and **Machine Learning**\
 :earth_africa: One day I would like to work within an international team where I could use **English** on a daily basis
 
 <a href= "https://www.linkedin.com/in/aldo-telese/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" height="18" width="18"/> <b>My LinkedIn </b></a>
-
-<a href= "https://aldotelesedev.herokuapp.com/"><img src="https://img.icons8.com/ultraviolet/40/000000/domain.png" height="18" width="18"/> <b>My Website </b></a>
 
 ***
 ## Technologies:
