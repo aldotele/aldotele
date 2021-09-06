@@ -22,7 +22,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?&logo=Bootstrap&logoColor=502EBC)\
 ![SQLite3](https://img.shields.io/badge/-SQLite3-fff?&logo=sqlite&logoColor=blue)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=postgresql&logoColor=1136BE)
-![GraphQL](https://img.shields.io/badge/-graphQL-fff?&logo=graphql)\
+![GraphQL](https://img.shields.io/badge/-GraphQL-fff?&logo=graphql)\
 ![Git](https://img.shields.io/badge/-Git-fff?&logo=Git)
 ![Markdown](https://img.shields.io/badge/-Markdown-fff?&logo=Markdown&logoColor=grey)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-fff?&logo=Jupyter&logoColor=orange)
