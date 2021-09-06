@@ -33,6 +33,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldotele&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+<!--
 ***
 ## My projects:
 
@@ -81,6 +82,7 @@ This project required me to implement a simulation of the Italian Lotto game by 
 [Lotto game repository](https://github.com/aldotele/lotto_lottery) 
 
 ***
+-->
 
 
 <!--
