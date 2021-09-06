@@ -7,7 +7,7 @@
 
 <a href= "https://www.linkedin.com/in/aldo-telese/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" height="18" width="18"/> <b>My LinkedIn </b></a>
 
-<a href= "https://aldotelesedev.herokuapp.com/"><img src="https://img.icons8.com/doodle/48/000000/domain.png" height="18" width="18"/> <b>My Website </b></a>
+<a href= "https://aldotelesedev.herokuapp.com/"><img src="https://img.icons8.com/ultraviolet/40/000000/domain.png" height="18" width="18"/> <b>My Website </b></a>
 
 ***
 ## Technologies:
