@@ -4,7 +4,7 @@
 
 ## Overview:
 
-:computer: I am a **Python** w/**Django** backend developer, currently expanding my knowledge with **Node.js** and **Golang**\
+:computer: I am a **Python** w/**Django** backend developer, also practicing with **Node.js** and **Golang**\
 :registered: Member of [**TomorrowDevs**](https://www.tomorrowdevs.com): a **community** of aspirant developers and data scientists mentored by industry professionals\
 :bar_chart: I have a university background in Economics and I took my first steps into **Data Science** and **Machine Learning**\
 :earth_africa: One day I would like to work within an international team where I could use **English** on a daily basis
@@ -30,9 +30,9 @@
 ![Squarespace](https://img.shields.io/badge/-Squarespace-fff?&logo=squarespace&logoColor=black)
 <!--![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=mysql&logoColor=dark-blue)-->
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldotele&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 <!--
 ***
