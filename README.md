@@ -30,9 +30,9 @@
 ![Squarespace](https://img.shields.io/badge/-Squarespace-fff?&logo=squarespace&logoColor=black)
 <!--![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=mysql&logoColor=dark-blue)-->
 
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldotele&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
 <!--
 ***
