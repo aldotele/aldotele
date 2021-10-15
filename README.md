@@ -4,7 +4,7 @@
 
 ## Overview:
 
-:computer: I am a **Python** w/**Django** backend developer, practicing with **Node.js** and **Golang**, learning **Docker**\
+:computer: I am a **Python** w/**Django** backend developer, learning **Docker**\
 :registered: Member of [**TomorrowDevs**](https://www.tomorrowdevs.com): a **community** of aspirant developers and data scientists mentored by industry professionals\
 :bar_chart: I have a university background in Economics and I took my first steps into **Data Science** and **Machine Learning**\
 :earth_africa: One day I would like to work within an international team where I could use **English** on a daily basis
