@@ -11,8 +11,6 @@
 
 <a href= "https://www.linkedin.com/in/aldo-telese/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" height="18" width="18"/> <b>My LinkedIn </b></a>
 
- <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=aldotele&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"  width="40%" />
-
 ***
 ## Technologies:
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=Python)
@@ -99,4 +97,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+ <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=aldotele&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"  width="40%" />
 -->
