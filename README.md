@@ -4,6 +4,8 @@
 
 ## Overview:
 
+ <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=aldotele&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"  width="40%" />
+
 :computer: I am a **Python** w/**Django** backend developer, learning **Docker**\
 :registered: Member of [**TomorrowDevs**](https://www.tomorrowdevs.com): a **community** of aspirant developers and data scientists mentored by industry professionals\
 :bar_chart: I have a university background in Economics and I took my first steps into **Data Science** and **Machine Learning**\
