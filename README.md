@@ -15,8 +15,8 @@
 ## Technologies:
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-fff?&logo=Django&logoColor=forestgreen)
+![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&color=orange)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
-![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=Node.js)
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?&logo=Bootstrap&logoColor=502EBC)\
