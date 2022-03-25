@@ -2,7 +2,7 @@
   <a href= "https://aldotelesedev.herokuapp.com/"><img src="https://img.icons8.com/ultraviolet/40/000000/domain.png" height="18" width="18"/> <b>aldotelesedev.com</b></a>
 </p>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=aleattene&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=aldotele&show_icons=true)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aleattene&show_icons=true)
 
