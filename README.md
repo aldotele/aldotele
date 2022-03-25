@@ -2,6 +2,10 @@
   <a href= "https://aldotelesedev.herokuapp.com/"><img src="https://img.icons8.com/ultraviolet/40/000000/domain.png" height="18" width="18"/> <b>aldotelesedev.com</b></a>
 </p>
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=aleattene&show_icons=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aleattene&show_icons=true)
+
 ## Overview:
 
 :computer: I am a jr software developer  |  working in **Java** w/**Spring**  |  using **Python** w/**Django** for personal projects  |  learning **Docker**\
@@ -20,8 +24,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?&logo=Bootstrap&logoColor=502EBC)\
+![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=postgresql&logoColor=1136BE)
 ![SQLite3](https://img.shields.io/badge/-SQLite3-fff?&logo=sqlite&logoColor=blue)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=postgresql&logoColor=1136BE)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-fff?&logo=graphql&logoColor=fuchsia)\
 ![Git](https://img.shields.io/badge/-Git-fff?&logo=Git)
 ![Markdown](https://img.shields.io/badge/-Markdown-fff?&logo=Markdown&logoColor=grey)
