@@ -2,8 +2,6 @@
   <a href= "https://aldotelesedev.herokuapp.com/"><img src="https://img.icons8.com/ultraviolet/40/000000/domain.png" height="18" width="18"/> <b>aldotelesedev.com</b></a>
 </p>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=aldotele&show_icons=true)
-
 ## Overview:
 
 :computer: I am a jr software developer  |  working in **Java** w/**Spring**  |  using **Python** w/**Django** for personal projects  |  learning **Docker**\
@@ -101,6 +99,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
+
  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=aldotele&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"  width="40%" />
--->
+
