@@ -4,8 +4,6 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=aldotele&show_icons=true)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aldotele&show_icons=true)
-
 ## Overview:
 
 :computer: I am a jr software developer  |  working in **Java** w/**Spring**  |  using **Python** w/**Django** for personal projects  |  learning **Docker**\
