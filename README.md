@@ -7,7 +7,7 @@
 :computer: I am a jr software developer  |  working in **Java** w/**Spring**  |  using **Python** w/**Django** for personal projects  |  learning **Docker**\
 :registered: Member of [**TomorrowDevs**](https://www.tomorrowdevs.com): a **community** of developers and data scientists trainees mentored by experienced IT professionals\
 :bar_chart: I have a university background in Economics and I went through the foundations of **Data Science** and **Machine Learning**\
-:pencil2: I wrote an article on <a href="[http://example.com/](https://dev.to/aldotele/oop-fundamentals-what-is-a-class-java-example-3832)" target="_blank">Dev.to</a>\
+:pencil2: I wrote an article on [http://example.com/](https://dev.to/aldotele/oop-fundamentals-what-is-a-class-java-example-3832)(**dev.to**)\
 :earth_africa: One day I would like to work within an international team where I could use **English** on a daily basis
 
 <a href= "https://www.linkedin.com/in/aldo-telese/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" height="18" width="18"/> <b>My LinkedIn </b></a>
