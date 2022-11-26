@@ -1,5 +1,5 @@
 <p align="center">
-  <a href= "https://aldotelesedev.vercel.app/"><img src="https://img.icons8.com/ultraviolet/40/000000/domain.png" height="18" width="18"/> <b>aldotelesedev.com</b></a>
+  <a href= "https://aldotelesedev.vercel.app/"><img src="https://img.icons8.com/ultraviolet/40/000000/domain.png" height="18" width="18"/> <b>aldotelesedev</b></a>
 </p>
 
 ## Overview:
