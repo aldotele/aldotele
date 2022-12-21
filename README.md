@@ -22,6 +22,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?&logo=Bootstrap&logoColor=502EBC)\
+![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=mongodb&logoColor=2D4E00)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=mysql&logoColor=1136BE)
 ![SQLite3](https://img.shields.io/badge/-SQLite3-fff?&logo=sqlite&logoColor=blue)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-fff?&logo=graphql&logoColor=fuchsia)\
