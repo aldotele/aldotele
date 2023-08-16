@@ -21,6 +21,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
+![Vue.js](https://img.shields.io/badge/-Vue.js-fff?&logo=Vue.js&logoColor=28774F)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?&logo=Bootstrap&logoColor=502EBC)\
 ![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=mongodb&logoColor=2D4E00)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=mysql&logoColor=1136BE)
