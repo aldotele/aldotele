@@ -12,6 +12,11 @@
 
 <a href= "https://www.linkedin.com/in/aldo-telese/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" height="18" width="18"/> <b>My LinkedIn </b></a>
 
+## Technologies
+<p>
+    <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
+</p>
+
 ***
 ## Technologies:
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=Python)
