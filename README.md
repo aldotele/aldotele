@@ -12,35 +12,30 @@
 
 <a href= "https://www.linkedin.com/in/aldo-telese/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" height="18" width="18"/> <b>My LinkedIn </b></a>
 
+***
 ## Technologies
 <p>
-    <img width="5%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
-    <img width="5%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
-    <img width="5%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />
+  <img width="5%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
+  <img width="5%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
+  <img width="5%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />
+  <img width="5%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" />
+  <img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" />
+  <img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" />
+  <img width="5%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
+  <img width="5%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" />
+  <img width="5%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" />
+  <img width="5%" src="https://www.vectorlogo.zone/logos/leafletjs/leafletjs-ar21.svg" />\
+  <img width="5%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
+  <img width="5%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
+  <img width="5%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" />
+  <img width="5%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" />\
+  <img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
+  <img width="5%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" />
+  <img width="5%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" />
+  <img width="5%" src="https://www.vectorlogo.zone/logos/markdown-here/markdown-here-ar21.svg" />
+  <img width="5%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" />
+  <img width="5%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" />
 </p>
-
-***
-## Technologies:
-![Python](https://img.shields.io/badge/-Python-fff?&logo=Python)
-![Django](https://img.shields.io/badge/-Django-fff?&logo=Django&logoColor=forestgreen)
-![Java](https://img.shields.io/badge/Java-fff?logo=openjdk&logoColor=red)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-fff?&logo=springboot&logoColor=green)
-![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
-![Vue.js](https://img.shields.io/badge/-Vue.js-fff?&logo=Vue.js&logoColor=28774F)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?&logo=Bootstrap&logoColor=502EBC)\
-![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=mongodb&logoColor=2D4E00)
-![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=mysql&logoColor=1136BE)
-![SQLite3](https://img.shields.io/badge/-SQLite3-fff?&logo=sqlite&logoColor=blue)
-![GraphQL](https://img.shields.io/badge/-GraphQL-fff?&logo=graphql&logoColor=fuchsia)\
-![Git](https://img.shields.io/badge/-Git-fff?&logo=Git)
-![Markdown](https://img.shields.io/badge/-Markdown-fff?&logo=Markdown&logoColor=grey)
-![Jupyter](https://img.shields.io/badge/-Jupyter-fff?&logo=Jupyter&logoColor=orange)
-![Heroku](https://img.shields.io/badge/-Heroku-fff?&logo=Heroku&logoColor=C6699E)
-![Vercel](https://img.shields.io/badge/-Vercel-fff?&logo=Vercel&logoColor=black)\
-![Squarespace](https://img.shields.io/badge/-Squarespace-fff?&logo=squarespace&logoColor=black)
-<!--![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=mysql&logoColor=dark-blue)-->
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldotele&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
