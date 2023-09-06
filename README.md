@@ -14,7 +14,7 @@
 
 ## Technologies
 <p>
-    <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
+    <img width="5%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
 </p>
 
 ***
