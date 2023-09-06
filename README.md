@@ -29,7 +29,7 @@
   <img width="5%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
   <img width="5%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
   <img width="5%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" />
-  <img width="5%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" />  
+  <img width="5%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" />  <br>
   
   <img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
   <img width="5%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" />
