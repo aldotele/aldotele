@@ -14,9 +14,9 @@
 
 ## Technologies
 <p>
-    <img width="6%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
-    <img width="6%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
-    <img width="6%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />
+    <img width="5%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
+    <img width="5%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
+    <img width="5%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />
 </p>
 
 ***
