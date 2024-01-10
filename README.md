@@ -4,7 +4,7 @@
 
 ## Overview:
 
-:computer: I am a software developer  |  working in **Java** w/**Spring Boot**  |  using **Python** w/**Django** for personal projects  |  learning **Docker**\
+:computer: I am a software developer  |  working in **Java** w/**Spring Boot**  |  using **Python** w/**Django** for personal projects  |  interested in **GIS**\
 :registered: Member of [**TomorrowDevs**](https://www.tomorrowdevs.com): a **community** of developers and data scientists trainees mentored by experienced IT professionals\
 :bar_chart: I have a university background in Economics and I went through the foundations of **Data Science** and **Machine Learning**\
 :pencil2: I occasionally write on [**dev.to**](https://www.dev.to/aldotele)\
