@@ -1,7 +1,3 @@
-<p align="center">
-  <a href= "https://aldotelesedev.vercel.app/"><img src="https://img.icons8.com/ultraviolet/40/000000/domain.png" height="18" width="18"/> <b>aldotelesedev</b></a>
-</p>
-
 ## Overview:
 
 :computer: I am a software developer  |  working in **Java** w/**Spring Boot**  |  using **Python** w/**Django** for personal projects  |  interested in **GIS**\
