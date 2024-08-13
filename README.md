@@ -14,6 +14,7 @@
 ## Technologies
 <p>
   <img width="6%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
+  <img width="6%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" />
   <img width="6%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
   <img width="6%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />
   <img width="6%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" />
@@ -25,16 +26,23 @@
   <img width="6%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" />  <br>
   
   <img width="6%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
+  <img width="6%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" />
   <img width="6%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
   <img width="6%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" />
   <img width="6%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" />  <br>
+
+  <img width="6%" src="https://www.vectorlogo.zone/logos/terraform/terraform-ar21.svg" />
+    <img width="6%" src="https://www.vectorlogo.zone/logos/aws/aws-ar21.svg" />
+  <img width="6%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" />
+  <img width="6%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" />
+  <img width="6%" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg" />  <br>
   
   <img width="6%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
-  <img width="6%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" />
   <img width="6%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" />
   <img width="6%" src="https://www.vectorlogo.zone/logos/markdown-here/markdown-here-ar21.svg" />
   <img width="6%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" />
   <img width="6%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" />
+  <img width="6%" src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg" />
 </p>
 
 <!--
