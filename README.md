@@ -1,8 +1,8 @@
 ## Overview:
 
-:computer: I am a software developer  |  working in **Java** w/**Spring Boot**  |  using **Python** w/**Django** for personal projects  |  interested in **GIS**\
+:computer: I am a software developer with a diverse background  |  working in **Java**, **Go** and much more  |  interested in **GIS**\
 :registered: Member of [**TomorrowDevs**](https://www.tomorrowdevs.com): a **community** of developers and data scientists trainees mentored by experienced IT professionals\
-:bar_chart: I have a university background in Economics and I went through the foundations of **Data Science** and **Machine Learning**\
+:bar_chart: I have a university background in Economics and I learnt the foundations of **Data Science** and **Machine Learning**\
 :pencil2: I occasionally write on [**dev.to**](https://www.dev.to/aldotele)\
 :earth_africa: One day I would like to work within an international team where I could use **English** on a daily basis
 
