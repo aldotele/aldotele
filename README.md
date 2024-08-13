@@ -31,8 +31,8 @@
   <img width="6%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" />
   <img width="6%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" />  <br>
 
-  <img width="6%" src="https://www.vectorlogo.zone/logos/hashicorp-terraform/hashicorp-terraform-ar21.svg" />
-    <img width="6%" src="https://www.vectorlogo.zone/logos/aws-2/aws-2-ar21.svg" />
+  <img width="6%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" />
+  <img width="6%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" />
   <img width="6%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" />
   <img width="6%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" />
   <img width="6%" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg" />  <br>
