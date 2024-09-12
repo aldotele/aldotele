@@ -23,7 +23,7 @@
   <img width="6%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
   <img width="6%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" />
   <img width="6%" src="https://www.vectorlogo.zone/logos/leafletjs/leafletjs-ar21.svg" />
-  <img width="6%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" />  <br>
+  <br>
   
   <img width="6%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
   <img width="6%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" />
