@@ -1,6 +1,6 @@
 ## Overview:
 
-:computer: I am a software developer with a **diverse background**  |  working primarily in **Back-End**  |  interested in **GIS**\
+:computer: I am a software developer with a **diverse background**  |  focus on **Back-End**  |  interested in **GIS**\
 :registered: Member of [**TomorrowDevs**](https://www.tomorrowdevs.com): a **community** of developers and data scientists trainees mentored by experienced IT professionals\
 :bar_chart: I have a university background in Economics and I learnt the foundations of **Data Science** and **Machine Learning**\
 :pencil2: I occasionally write on [**dev.to**](https://www.dev.to/aldotele)\
